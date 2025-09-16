@@ -1,4 +1,14 @@
-## Hi there 👋
+## 👩‍💻 Programadora Industrial em Desenvolvimento
+
+Olá! Eu sou a **Daniela Moreira**.
+
+A minha jornada tem sido marcada pela curiosidade e pela vontade de compreender como as coisas funcionam — seja na eletrónica, na mecânica ou agora, cada vez mais, na programação industrial.  
+Já tive a oportunidade de trabalhar em contextos exigentes, como a **Bosch** e a **Transdev**, onde atuei na manutenção eletrónica e mecânica de sistemas complexos. 
+Desenvolvi, do zero, um software de controlo fabril durante o meu estágio na **PREH Portugal**, experiência que reforçou a minha paixão por criar soluções através do código.  
+Hoje sigo a aprofundar o meu caminho em **PLCs, automação e controlo de fábrica**, explorando ferramentas como o CX-Programmer e o Factory I/O, sempre com o objetivo de transformar desafios técnicos em soluções inteligentes.  
+Acredito no poder da tecnologia para simplificar processos e abrir novas possibilidades. Sou autodidata, destemida e motivada pela ideia de aprender todos os dias algo novo.  
+Se quiser acompanhar esta jornada, partilho reflexões e aprendizagens no [LinkedIn](https://www.linkedin.com/) e organizo os meus projetos aqui no GitHub. 🚀  
+</p>
 
 <!--
 **moreiradaniela/MoreiraDaniela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
