@@ -7,7 +7,7 @@ Já tive a oportunidade de trabalhar em contextos exigentes, como a **Bosch** e 
 Desenvolvi, do zero, um software de controlo fabril durante o meu estágio na **PREH Portugal**, experiência que reforçou a minha paixão por criar soluções através do código.  
 Hoje sigo a aprofundar o meu caminho em **PLCs, automação e controlo de fábrica**, explorando ferramentas como o CX-Programmer e o Factory I/O, sempre com o objetivo de transformar desafios técnicos em soluções inteligentes.  
 Acredito no poder da tecnologia para simplificar processos e abrir novas possibilidades. Sou autodidata, destemida e motivada pela ideia de aprender todos os dias algo novo.  
-Se quiser acompanhar esta jornada, partilho reflexões e aprendizagens no [LinkedIn](www.linkedin.com/in/daniela-moreira-7aa72728b/) e organizo os meus projetos aqui no GitHub. 🚀  
+Se quiser acompanhar esta jornada, partilho reflexões e aprendizagens no [LinkedIn](https://www.linkedin.com/in/daniela-moreira-7aa72728b/) e organizo os meus projetos aqui no GitHub. 🚀  
 </p>
 
 <!--
